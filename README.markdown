@@ -14,7 +14,7 @@ And then execute:
 
 ## Usage
 
-In your application.css you can choose to include all 4 variations or include them individually
+In your application.css
 
     # Include all
     *= require 'journal-font'
